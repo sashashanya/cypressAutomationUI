@@ -1,0 +1,15 @@
+{
+  "name": "cypressautomationui",
+  "version": "1.0.0",
+  "description": "Cypress Automation UI",
+  "main": " ",
+  "scripts": {
+    "open": "cypress open --e2e --browser chrome"
+  },
+  "author": "Sasha",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.3",
+    "typescript": "^5.3.3"
+  }
+}
