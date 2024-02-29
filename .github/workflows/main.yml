@@ -1,5 +1,5 @@
 name: Cypress Action Guide
-descripion: Runs Cypress tests
+
 
 on: push
 
