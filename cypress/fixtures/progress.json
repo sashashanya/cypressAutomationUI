@@ -1,0 +1,52 @@
+{
+    "message": "Get courses progress",
+    "success": true,
+    "fail": false,
+    "payload": [
+        {
+            "_id": "65d4335edb75721937e579fe",
+            "completedLessons": 22,
+            "totalLessons": 115,
+            "course": {
+                "_id": "5ff2005cacc2d5003ae26bc7",
+                "name": "QA Manual"
+            }
+        },
+        {
+            "_id": "65d433b3db75721937e57ca2",
+            "completedLessons": 15,
+            "totalLessons": 142,
+            "course": {
+                "_id": "635c05ba659f6d77abf1f4e7",
+                "name": "JavaScript Syntax "
+            }
+        },
+        {
+            "_id": "5ef92a023f0046003c253a4a",
+            "completedLessons": 2,
+            "totalLessons": 115,
+            "course": {
+                "_id": "5ef92a023f0046003c253a4a",
+                "name": "Python"
+            }
+        },
+        {
+            "_id": "5ef92a023f0046003c253a4a",
+            "completedLessons": 90,
+            "totalLessons": 115,
+            "course": {
+                "_id": "5ef92a023f0046003c253a4a",
+                "name": "QA Automation"
+            }
+        },
+        {
+            "_id": "5ef92a023f0046003c253a4a",
+            "completedLessons": 110,
+            "totalLessons": 115,
+            "course": {
+                "_id": "5ef92a023f0046003c253a4a",
+                "name": "Express"
+            }
+        }
+    ]
+}

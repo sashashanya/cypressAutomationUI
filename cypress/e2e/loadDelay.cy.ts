@@ -7,4 +7,4 @@ describe('LOAD DELAY', () => {
         cy.get('[href="/loaddelay"]').click();
         cy.contains('button', 'Button Appearing After Delay')
     });
-});
+}); 

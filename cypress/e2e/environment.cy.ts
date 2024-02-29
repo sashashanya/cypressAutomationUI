@@ -10,5 +10,5 @@ describe('ENV', () => {
     });
     it('baseUrl', () => {
         cy.visit('/');
-    })
-});
+    });
+});  

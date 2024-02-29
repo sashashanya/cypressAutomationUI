@@ -1,0 +1,70 @@
+{
+    "message": "Get completed katas by user id. Success",
+    "success": true,
+    "fail": false,
+    "payload": [
+        {
+            "id": "5a04133e32b8b998dc000089",
+            "name": "Dominant array elements",
+            "slug": "dominant-array-elements",
+            "completedLanguages": [
+                "javascript"
+            ],
+            "completedAt": "2023-07-01T22:20:30.444Z"
+        },
+        {
+            "id": "56786a687e9a88d1cf00005d",
+            "name": "Character Counter",
+            "slug": "character-counter",
+            "completedLanguages": [
+                "javascript"
+            ],
+            "completedAt": "2023-01-18T04:36:15.153Z"
+        },
+        {
+            "id": "57cc981a58da9e302a000214",
+            "name": "Small enough? - Beginner",
+            "slug": "small-enough-beginner",
+            "completedLanguages": [
+                "javascript"
+            ],
+            "completedAt": "2022-12-22T20:29:54.312Z"
+        },
+        {
+            "id": "56b7f2f3f18876033f000307",
+            "name": "Are the numbers in order?",
+            "slug": "are-the-numbers-in-order",
+            "completedLanguages": [
+                "javascript"
+            ],
+            "completedAt": "2022-12-22T20:24:07.186Z"
+        },
+        {
+            "id": "54598d1fcbae2ae05200112c",
+            "name": "Enumerable Magic #1 - True for All?",
+            "slug": "enumerable-magic-number-1-true-for-all",
+            "completedLanguages": [
+                "javascript"
+            ],
+            "completedAt": "2022-12-22T19:44:51.578Z"
+        },
+        {
+            "id": "5a34af40e1ce0eb1f5000036",
+            "name": "CSV representation of array",
+            "slug": "csv-representation-of-array",
+            "completedLanguages": [
+                "javascript"
+            ],
+            "completedAt": "2022-12-21T20:57:24.203Z"
+        },
+        {
+            "id": "578553c3a1b8d5c40300037c",
+            "name": "Ones and Zeros",
+            "slug": "ones-and-zeros",
+            "completedLanguages": [
+                "javascript"
+            ],
+            "completedAt": "2022-12-21T20:32:21.257Z"
+        }
+     ]
+}
